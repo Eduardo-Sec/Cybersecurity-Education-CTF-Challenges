@@ -9,7 +9,7 @@ Your school has a comment section that doesn't filter special characters. When y
 
 **Instructions:**
 - Open `xxs_demo.html` in your browser.
-- In the comment box, try typing: `<script>FLAG{webpages_need_filters}</script>`
+- In the comment box, try typing: alert('FLAG{webpages_need_filters}`)
 - Post the comment and observe what happens.
 
 **Hint:** You're learning what happens when webpages don't escape dangerous characters.
