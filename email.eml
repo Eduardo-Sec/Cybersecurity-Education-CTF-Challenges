@@ -1,0 +1,43 @@
+Sender: "admin@schoolupdates.com" <admin@schoolupdates.com>
+From: "admin@schoolupdates.com" <admin@schoolupdates.com>
+Subject: Important - Verify Your School Account
+To: "student@email.com" <student@email.com>
+Cc: 
+Bcc: 
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--_=_NextPart0_9cc358ac-f9e4-4685-b9c1-5f7d64cea0ab"
+
+This is a multi-part message in MIME format.
+
+----_=_NextPart0_9cc358ac-f9e4-4685-b9c1-5f7d64cea0ab
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Student,
+
+
+We have noticed recent unusual activity on your school account=2E Please ve=
+rify your information immediately to avoid fines and/or suspension=2E
+
+
+Click here to verify your account: http://your-school=2Ecom/verify<https://=
+flag{link_found}>
+
+
+Thank you,
+
+School IT Support Team
+
+----_=_NextPart0_9cc358ac-f9e4-4685-b9c1-5f7d64cea0ab
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">De=
+ar Student,<p><br></p><p>We have noticed recent unusual activity on your sc=
+hool account=2E Please verify your information immediately to avoid fines a=
+nd/or suspension=2E</p><p><br></p><p>Click here to verify your account: <a =
+href=3D"https://flag{link_found}">http://your-school=2Ecom/verify</a></p><p=
+><br></p><p>Thank you,</p><p>School IT Support Team</p>
+----_=_NextPart0_9cc358ac-f9e4-4685-b9c1-5f7d64cea0ab--
+
