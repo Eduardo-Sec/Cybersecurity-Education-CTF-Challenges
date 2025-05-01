@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>XSS Demo</title>
+</head>
+<body>
+  <h2>Post a Comment:</h2>
+  <textarea id="commentInput" rows="4" cols="50" placeholder="Try typing: alert('XSS')"></textarea><br>
+  <button onclick="submitComment()">Submit</button>
+
+  <h3>Result:</h3>
+  <div id="output"></div>
+
+  <script>
+    function submitComment() {
+      const input = document.getElementById("commentInput").value;
+      try {
+        eval(input); // ⚠️ Only for educational XSS demos!
+        document.getElementById("output").innerText = "Executed input!";
+      } catch (e) {
+        document.getElementById("output").innerText = "Error: " + e;
+      }
+    }
+  </script>
+</body>
+</html>
